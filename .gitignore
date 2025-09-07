@@ -1,0 +1,57 @@
+# ===========================
+# Python / Jupyter
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ===========================
+# OS-specific
+# ===========================
+.DS_Store
+Thumbs.db
+
+# ===========================
+# Data files (ignore all)
+# ===========================
+*.csv
+*.json
+*.sqlite
+*.parquet
+*.feather
+*.h5
+*.hdf5
+
+# ===========================
+# Logs / temporary
+# ===========================
+*.log
+*.tmp
+*.swp
+*.swo
+
+# ===========================
+# Archives
+# ===========================
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# ===========================
+# IDE / Editor
+# ===========================
+.vscode/
+.idea/
