@@ -26,6 +26,7 @@ Thumbs.db
 # ===========================
 # Data files (ignore all)
 # ===========================
+data/
 *.csv
 *.json
 *.sqlite
@@ -33,6 +34,18 @@ Thumbs.db
 *.feather
 *.h5
 *.hdf5
+
+# ===========================
+# Images (ignore all)
+# ===========================
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tif
+*.tiff
+*.bmp
+*.svg
 
 # ===========================
 # Logs / temporary
@@ -55,3 +68,4 @@ Thumbs.db
 # ===========================
 .vscode/
 .idea/
+
